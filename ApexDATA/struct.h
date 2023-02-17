@@ -5,13 +5,13 @@
 
 #pragma once
 //GAME
-#define LOCALPLAYER 0x1e4f288
-#define cl_entitylist 0x1a9e778
-#define ClientState 0x13c3c80
-#define ViewRender 0x75cc210
+#define LOCALPLAYER 0x7744cd8
+#define cl_entitylist 0x1b37938
+#define ClientState 0x14622a0
+#define ViewRender 0x7677288
 #define ViewMatrix 0x11a210
 #define m_iName 0x589
-#define NameList 0xbacf590
+#define NameList 0xbc9ec10
 #define m_iHealth 0x43C
 #define m_shieldHealth 0x0170
 #define m_bleedoutState 0x26d0 // m_bleedoutState=0x26d0
